@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-    cout<<"Harshit Singh"<<endl;
-    cout<<"21BCS7148"<<endl;
-    cout<<"21BCS-CC-645-B"<<endl;
+    cout<<"Harshit Kesarwani"<<endl;
+    cout<<"21BCS11394"<<endl;
+    cout<<"21BCS-CC-651-A"<<endl;
     return 0;
 }
